@@ -19,6 +19,6 @@ manage any hospital.
 
 
 ## Contributors
-- Aidar Garikhanov
-- Insaf Safin
-- Renat Valeev
+- [Aidar Garikhanov](https://github.com/a1d4r)
+- [Insaf Safin](https://github.com/safinsaf)
+- [Renat Valeev](https://github.com/validolchik)
